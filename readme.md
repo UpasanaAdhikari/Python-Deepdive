@@ -10,6 +10,7 @@ This repository tracks my daily progress as I learn and build with Python.
 | 2   | 2025-05-27 | variable as memory refernce                 | 
 | 3   | 2025-05-27 | Refrence Counting                           | 
 | 4   | 2015-05-28 | Garbage Collection                          |
+| 5   | 2025-08-3  | Unpacking iterables                         |
 
 
 ---
